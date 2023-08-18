@@ -22,5 +22,5 @@ Inicie a conversa com o bot usando o comando /start para obter informações.
 /admin: Acessa as configurações de administração e edição.
 !question: Edita uma pergunta e resposta existente.
 
-
+# Oberservação
 - ``Como esse projeto era dedicado para uma empresa e não deu certo, o bot contém poucas funcionalidades. Eu realmente não sabia que este projeto iria para cá, mas o intuito era fazer um bot mais completo e com um sistema de pagamento para a empresa.``
