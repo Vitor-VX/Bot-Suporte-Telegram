@@ -88,4 +88,4 @@ Além das funcionalidades do bot, uma API foi desenvolvida para fornecer recurso
 
 ## Observação
 
-- "Como esse projeto era dedicado para uma empresa e não deu certo, o bot contém poucas funcionalidades. Eu realmente não sabia que este projeto iria para cá, mas o intuito era fazer um bot mais completo e com um sistema de pagamento para a empresa."
+- Como esse projeto era dedicado para uma empresa e não deu certo, o bot contém poucas funcionalidades. Eu realmente não sabia que este projeto iria para cá, mas o intuito era fazer um bot mais completo e com um sistema de pagamento para a empresa.
